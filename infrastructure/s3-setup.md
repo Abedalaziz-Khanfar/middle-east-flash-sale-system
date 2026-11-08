@@ -75,13 +75,16 @@ The bucket is protected with default server-side encryption and Block Public Acc
 
 ## 8. Implementation Evidence
 
-The following screenshots demonstrate the successful AWS S3 configuration.
+The following screenshots demonstrate the successful AWS S3 infrastructure configuration.
 
 ### 8.1 S3 Bucket Structure
-![S3 Bucket Structure](screenshots/s3-bucket-structure.png)
+
+![S3 Bucket Structure](s3-bucket-structure.png.png)
 
 ### 8.2 Block Public Access
-![S3 Public Access](screenshots/s3-public-access.png)
+
+![S3 Public Access](s3-public-access.png.png)
 
 ### 8.3 Default Encryption
-![S3 Encryption](screenshots/s3-encryption.png)
+
+![S3 Encryption](s3-encryption.png.png)
