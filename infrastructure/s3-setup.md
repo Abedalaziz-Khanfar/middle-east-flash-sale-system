@@ -72,3 +72,16 @@ Default encryption is enabled to protect newly uploaded objects at rest.
 The AWS S3 data lake infrastructure has been successfully created and configured.
 
 The bucket is protected with default server-side encryption and Block Public Access. The required folder structure is ready for the next stage of the project, which involves dataset generation and data ingestion.
+
+## 8. Implementation Evidence
+
+The following screenshots demonstrate the successful AWS S3 configuration.
+
+### 8.1 S3 Bucket Structure
+![S3 Bucket Structure](screenshots/s3-bucket-structure.png)
+
+### 8.2 Block Public Access
+![S3 Public Access](screenshots/s3-public-access.png)
+
+### 8.3 Default Encryption
+![S3 Encryption](screenshots/s3-encryption.png)
